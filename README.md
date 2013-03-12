@@ -19,6 +19,9 @@ cd hola
 gem build hola.gemspec
 ```
 
+```
+gem install hola-<version>.gem
+```
 and that's it! The gem is built from native extensions. Test it out by
 
 ```
