@@ -23,7 +23,7 @@ and that's it! The gem is built from native extensions. Test it out by
 
 ```
 irb> require "rubygems"
-irb> require "hold"
+irb> require "hola"
 irb> Hola.bonjour
 irb> "bonjour, Kannan!"
 ```
